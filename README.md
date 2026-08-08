@@ -12,19 +12,20 @@ I'm a passionate **Web Developer** focused on building responsive, modern, and u
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
 - 🚀 Learning and building with **modern web technologies**
 - 💻 Focused on **Front-End Development**
 - 📱 Interested in creating **responsive and user-friendly websites**
 - ⚛️ Currently learning and working with **React.js**
 - 🎨 Experience with **Canva** and **Adobe Illustrator**
-- 🛠️ Familiar with **MS Office**
-- 🌱 Continuously learning, experimenting, and improving
-- 📂 Building projects to strengthen my development skills
-- 🔗 Learning how to work with **APIs**
+- 🖥️ Learned **MS Office**
+- 🌐 Experienced with **HTML & CSS**
+- ⚡ Learning **JavaScript**
+- 🎨 Working with **Bootstrap & Tailwind CSS**
 - 📦 Using **Git & GitHub** for version control
-- 🌐 Deploying projects using **Netlify**
+- 🔗 Learning to work with **APIs**
+- 🌱 Continuously learning, experimenting, and improving
 - 🎯 My goal is to become a professional **Full-Stack Developer**
 
 ---
@@ -34,34 +35,97 @@ I'm a passionate **Web Developer** focused on building responsive, modern, and u
 ## 🌐 Front-End Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
 
 ## 🔧 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 
 ## 🎨 Design & Productivity
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ---
 
-# 📚 Currently Learning
+# 📚 Learning Places
+
+## 🏫 Saylani Gulshan Campus
+
+This is where I started my journey in technology and web development.
+
+### 📖 Skills Learned
+
+- 🖥️ **MS Office**
+- 🌐 **HTML**
+- 🎨 **CSS**
+- ⚡ **Basic JavaScript**
+- 🧩 **Bootstrap**
+- 🎨 **Tailwind CSS**
+
+> 🌱 Gulshan Campus gave me the foundation to start my web development journey.
+
+---
+
+## 🏫 Saylani Malir Campus — Currently Learning 🚀
+
+Currently continuing my web development journey at **Saylani Malir Campus**.
+
+### 📖 Skills Learned & Learning
+
+- ⚡ **Basic JavaScript — Improved**
+- 🧠 **Advanced JavaScript**
+- ⚛️ **React.js**
+- 🔗 **APIs**
+- 📦 **Git & GitHub**
+- 🚀 Building projects with **React.js**
+
+> 🚀 Malir Campus is helping me take my JavaScript skills further and move into modern React development.
+
+---
+
+# 🌱 My Learning Journey
 
 ```text
-HTML & CSS       ████████████████████  Advanced
-JavaScript       ███████████████░░░░░  Learning
-React.js         ████████████░░░░░░░░  Learning
-Tailwind CSS     ████████████░░░░░░░░  Learning
-Git & GitHub     ███████████████░░░░░  Learning
-APIs             ██████████░░░░░░░░░░  Learning
-Backend          ██████░░░░░░░░░░░░░░  Exploring
+🏫 Saylani Gulshan Campus
+        │
+        ├── 🖥️ MS Office
+        ├── 🌐 HTML
+        ├── 🎨 CSS
+        ├── ⚡ Basic JavaScript
+        ├── 🧩 Bootstrap
+        └── 🎨 Tailwind CSS
+                │
+                ▼
+🏫 Saylani Malir Campus — Current 🚀
+        │
+        ├── ⚡ Advanced JavaScript
+        ├── 🧠 JavaScript Concepts
+        ├── ⚛️ React.js
+        ├── 🔗 APIs
+        └── 📦 Git & GitHub
+                │
+                ▼
+        🚀 Full-Stack Developer
